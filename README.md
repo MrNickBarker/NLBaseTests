@@ -1,6 +1,6 @@
 # NLBaseTests
 
-A SenTestCase subclass that makes testing notification observing easy. More info: 
+Unit testing base class for iOS. SenTestCase subclass that makes notification observing testing easy. More info: 
 
 ## Usage
 
@@ -13,4 +13,4 @@ check the included example project for more details.
 
 ## Installation
 
-Drag the `NLBaseTests` folder to your project and select your tests as the target.
+Drag the `NLBaseTests` folder to your project and select your unit tests as the target.
