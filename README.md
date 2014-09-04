@@ -1,6 +1,8 @@
 # NLBaseTests
 
-Unit testing base class for iOS. SenTestCase subclass that makes notification observing testing easy. More info: 
+Unit testing base class for iOS. SenTestCase subclass that makes notification observing testing easy. 
+
+More info: https://blog.codecentric.de/en/2014/09/unit-testing-notification-observing-ios/
 
 ## Usage
 
